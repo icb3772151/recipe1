@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Recipe</title>
+  
+</head>
+<body>
+  
+  <h1>Green Bean Recipe</h1>
+  
+   
+      <h2>Ingredients</h2>
+      <ul>
+        <li>2.50 pounds of Green Beans</li>
+        <li>Salt to taste</li>
+        <li>Up to 2 quarts of Water</li>
+     
+      </ul>
+     
+   
+   <h2>
+     Instructions
+   </h2>
+  
+   <p>
+     <ul>
+     <li>Wash beans thoroughly and snip off ends.</li>
+     <li>Cut beans into segments no longer than 2 inches.</li>
+     <li>In a sauce pan, bring water to a boil. You need enough water to fully cover beans.</li>
+     <li>Place beans into boiling water. </li>
+     <li>Add salt to water as desired. </li>
+     <li>Boil beans for approximately 5 to 7 minutes or until desired texture.</li>
+     <li>Use a slotted spoon to serve.</li>
+  </ul>
+  </p>
+     
+      
+    </form>
+
+  </body>
+</html>
